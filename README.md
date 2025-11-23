@@ -13,7 +13,7 @@ I mapped the attacker’s behaviors to MITRE ATT&CK techniques based on public t
 ## MITRE ATT&CK Heatmap
 
 **Screenshot:**  
-![MITRE Heatmap](YOUR-HEATMAP-LINK-HERE)
+![MITRE Heatmap](https://i.imgur.com/XAF7PyQ.png)
 
 (Upload your heatmap to Imgur or GitHub, then paste the link above.)
 
