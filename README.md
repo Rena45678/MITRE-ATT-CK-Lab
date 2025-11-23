@@ -1,6 +1,6 @@
 # MITRE ATT&CK Mapping – APT31 Case Study
 
-[📄 Download Full Project Report](./Group5_WK10_MITRELab_11072025.docx)
+[📄 Download Full Project Report](https://github.com/Rena45678/MITRE-ATT-CK-Lab/blob/main/MITRELab.pdf)
 
 ---
 
